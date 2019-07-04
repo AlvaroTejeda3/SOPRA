@@ -19,3 +19,231 @@
 2019-07-04 12:22:06,222 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2019-07-04 12:22:06,222 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Modelo\src\main\resources
 2019-07-04 12:22:06,238 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 12:22:06,247 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Modelo\src\test\resources
+2019-07-04 12:33:00,762 [Worker-23: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Dao\pom.xml
+2019-07-04 12:33:00,987 [Worker-23: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ejercicio.Pelicula:Dao:0.0.1-SNAPSHOT @ C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Dao\pom.xml.
+2019-07-04 12:33:01,280 [Worker-23: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Dao/src/main/java
+2019-07-04 12:33:01,300 [Worker-23: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Dao/src/test/java
+2019-07-04 12:33:01,451 [Worker-23: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2019-07-04 12:33:02,732 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 12:33:02,741 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Dao\src\main\resources
+2019-07-04 12:33:02,751 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 12:33:02,760 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Dao\src\test\resources
+2019-07-04 12:33:20,803 [Worker-23: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Negocio\pom.xml
+2019-07-04 12:33:21,040 [Worker-23: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ejercicio.Pelicula:Negocio:0.0.1-SNAPSHOT @ C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Negocio\pom.xml.
+2019-07-04 12:33:21,612 [Worker-23: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Negocio/src/main/java
+2019-07-04 12:33:21,628 [Worker-23: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Negocio/src/test/java
+2019-07-04 12:33:21,754 [Worker-23: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2019-07-04 12:33:22,184 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 12:33:22,185 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Negocio\src\main\resources
+2019-07-04 12:33:22,193 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 12:33:22,193 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Negocio\src\test\resources
+2019-07-04 12:33:41,806 [Worker-25: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Consola\pom.xml
+2019-07-04 12:33:41,980 [Worker-25: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ejercicio.Pelicula:Consola:0.0.1-SNAPSHOT @ C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Consola\pom.xml.
+2019-07-04 12:33:42,309 [Worker-25: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Consola/src/main/java
+2019-07-04 12:33:42,323 [Worker-25: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Consola/src/test/java
+2019-07-04 12:33:42,456 [Worker-25: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2019-07-04 12:33:42,863 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 12:33:42,871 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Consola\src\main\resources
+2019-07-04 12:33:42,920 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 12:33:42,941 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Consola\src\test\resources
+2019-07-04 12:42:23,509 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 12:42:23,509 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Modelo\src\main\resources
+2019-07-04 12:42:23,532 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 12:42:23,546 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Modelo\src\test\resources
+2019-07-04 12:42:45,514 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 12:42:45,525 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Modelo\src\main\resources
+2019-07-04 12:42:45,554 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 12:42:45,571 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Modelo\src\test\resources
+2019-07-04 12:45:37,546 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 12:45:37,546 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Modelo\src\main\resources
+2019-07-04 12:45:37,548 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 12:45:37,559 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Modelo\src\test\resources
+2019-07-04 12:47:39,945 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 12:47:39,957 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Modelo\src\main\resources
+2019-07-04 12:47:39,969 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 12:47:39,981 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Modelo\src\test\resources
+2019-07-04 12:48:10,255 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 12:48:10,256 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Modelo\src\main\resources
+2019-07-04 12:48:10,257 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 12:48:10,265 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Modelo\src\test\resources
+2019-07-04 12:48:13,926 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 12:48:13,937 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Modelo\src\main\resources
+2019-07-04 12:48:13,950 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 12:48:13,963 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Modelo\src\test\resources
+2019-07-04 12:48:44,288 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 12:48:44,288 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Dao\src\main\resources
+2019-07-04 12:48:44,289 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 12:48:44,341 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Dao\src\test\resources
+2019-07-04 12:48:56,339 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 12:48:56,351 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Dao\src\main\resources
+2019-07-04 12:48:56,363 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 12:48:56,372 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Dao\src\test\resources
+2019-07-04 12:50:08,924 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 12:50:08,924 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Dao\src\main\resources
+2019-07-04 12:50:08,927 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 12:50:08,938 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Dao\src\test\resources
+2019-07-04 12:50:17,316 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 12:50:17,325 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Dao\src\main\resources
+2019-07-04 12:50:17,340 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 12:50:17,348 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Dao\src\test\resources
+2019-07-04 12:54:41,745 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 12:54:41,746 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Modelo\src\main\resources
+2019-07-04 12:54:41,747 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 12:54:41,754 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Modelo\src\test\resources
+2019-07-04 12:56:03,085 [Worker-34: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ejercicio.Pelicula:Dao:0.0.1-SNAPSHOT @ C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Dao\pom.xml.
+2019-07-04 12:56:03,111 [Worker-34: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Modelo: ejercicio.Pelicula:Modelo:0.0.1-SNAPSHOT with classifier  to /Modelo/target/classes
+2019-07-04 12:56:03,429 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 12:56:03,434 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Dao\src\main\resources
+2019-07-04 12:56:03,436 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 12:56:03,442 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Dao\src\test\resources
+2019-07-04 12:56:04,683 [Worker-29: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Modelo: ejercicio.Pelicula:Modelo:0.0.1-SNAPSHOT with classifier  to /Modelo/target/classes
+2019-07-04 12:56:04,719 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 12:56:04,727 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Dao\src\main\resources
+2019-07-04 12:56:04,735 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 12:56:04,736 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Dao\src\test\resources
+2019-07-04 12:59:24,015 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 12:59:24,015 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Dao\src\main\resources
+2019-07-04 12:59:24,017 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 12:59:24,018 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Dao\src\test\resources
+2019-07-04 13:11:16,804 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 13:11:16,804 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Dao\src\main\resources
+2019-07-04 13:11:16,806 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 13:11:16,806 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Dao\src\test\resources
+2019-07-04 13:17:11,908 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 13:17:11,908 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Modelo\src\main\resources
+2019-07-04 13:17:11,914 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 13:17:11,920 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Modelo\src\test\resources
+2019-07-04 13:17:17,932 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 13:17:17,932 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Modelo\src\main\resources
+2019-07-04 13:17:17,933 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 13:17:17,933 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Modelo\src\test\resources
+2019-07-04 13:20:10,494 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 13:20:10,495 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Dao\src\main\resources
+2019-07-04 13:20:10,501 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 13:20:10,501 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Dao\src\test\resources
+2019-07-04 13:20:54,983 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 13:20:54,984 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Dao\src\main\resources
+2019-07-04 13:20:54,985 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 13:20:54,986 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Dao\src\test\resources
+2019-07-04 13:37:43,504 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 13:37:43,510 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Dao\src\main\resources
+2019-07-04 13:37:43,517 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 13:37:43,518 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Dao\src\test\resources
+2019-07-04 13:37:47,482 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 13:37:47,482 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Dao\src\main\resources
+2019-07-04 13:37:47,484 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 13:37:47,484 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Dao\src\test\resources
+2019-07-04 13:43:24,385 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 13:43:24,395 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Dao\src\main\resources
+2019-07-04 13:43:24,408 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 13:43:24,408 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Dao\src\test\resources
+2019-07-04 13:43:26,802 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 13:43:26,802 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Dao\src\main\resources
+2019-07-04 13:43:26,804 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 13:43:26,805 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Dao\src\test\resources
+2019-07-04 13:43:41,068 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 13:43:41,079 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Dao\src\main\resources
+2019-07-04 13:43:41,086 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 13:43:41,086 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Dao\src\test\resources
+2019-07-04 13:43:54,717 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 13:43:54,718 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Dao\src\main\resources
+2019-07-04 13:43:54,722 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 13:43:54,722 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Dao\src\test\resources
+2019-07-04 13:44:24,212 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 13:44:24,225 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Dao\src\main\resources
+2019-07-04 13:44:24,237 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 13:44:24,237 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Dao\src\test\resources
+2019-07-04 13:44:36,478 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 13:44:36,478 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Dao\src\main\resources
+2019-07-04 13:44:36,480 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 13:44:36,480 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Dao\src\test\resources
+2019-07-04 13:44:39,371 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 13:44:39,378 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Dao\src\main\resources
+2019-07-04 13:44:39,386 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 13:44:39,387 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Dao\src\test\resources
+2019-07-04 13:44:44,069 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 13:44:44,069 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Dao\src\main\resources
+2019-07-04 13:44:44,070 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 13:44:44,071 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Dao\src\test\resources
+2019-07-04 13:44:50,495 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 13:44:50,503 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Dao\src\main\resources
+2019-07-04 13:44:50,510 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 13:44:50,511 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Dao\src\test\resources
+2019-07-04 13:44:55,563 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 13:44:55,564 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Dao\src\main\resources
+2019-07-04 13:44:55,565 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 13:44:55,565 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Dao\src\test\resources
+2019-07-04 13:44:57,945 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 13:44:57,951 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Dao\src\main\resources
+2019-07-04 13:44:57,958 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 13:44:57,959 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Dao\src\test\resources
+2019-07-04 13:45:00,245 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 13:45:00,245 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Dao\src\main\resources
+2019-07-04 13:45:00,250 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 13:45:00,250 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Dao\src\test\resources
+2019-07-04 13:47:14,183 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 13:47:14,191 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Negocio\src\main\resources
+2019-07-04 13:47:14,197 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 13:47:14,198 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Negocio\src\test\resources
+2019-07-04 13:48:29,004 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 13:48:29,004 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Negocio\src\main\resources
+2019-07-04 13:48:29,005 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 13:48:29,006 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Negocio\src\test\resources
+2019-07-04 13:48:38,866 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 13:48:38,873 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Negocio\src\main\resources
+2019-07-04 13:48:38,880 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 13:48:38,881 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Negocio\src\test\resources
+2019-07-04 13:49:00,569 [Worker-49: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ejercicio.Pelicula:Negocio:0.0.1-SNAPSHOT @ C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Negocio\pom.xml.
+2019-07-04 13:49:00,576 [Worker-49: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Dao: ejercicio.Pelicula:Dao:0.0.1-SNAPSHOT with classifier  to /Dao/target/classes
+2019-07-04 13:49:00,577 [Worker-49: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Modelo: ejercicio.Pelicula:Modelo:0.0.1-SNAPSHOT with classifier  to /Modelo/target/classes
+2019-07-04 13:49:00,938 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 13:49:00,945 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Negocio\src\main\resources
+2019-07-04 13:49:00,953 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 13:49:00,959 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Negocio\src\test\resources
+2019-07-04 13:49:02,154 [Worker-45: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Dao: ejercicio.Pelicula:Dao:0.0.1-SNAPSHOT with classifier  to /Dao/target/classes
+2019-07-04 13:49:02,160 [Worker-45: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Modelo: ejercicio.Pelicula:Modelo:0.0.1-SNAPSHOT with classifier  to /Modelo/target/classes
+2019-07-04 13:49:02,168 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 13:49:02,174 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Negocio\src\main\resources
+2019-07-04 13:49:02,175 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 13:49:02,181 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Negocio\src\test\resources
+2019-07-04 14:07:18,452 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 14:07:18,452 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Negocio\src\main\resources
+2019-07-04 14:07:18,453 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 14:07:18,454 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Negocio\src\test\resources
+2019-07-04 14:07:20,906 [Worker-58: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 14:07:20,906 [Worker-58: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Negocio\src\main\resources
+2019-07-04 14:07:20,907 [Worker-58: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 14:07:20,923 [Worker-58: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Negocio\src\test\resources
+2019-07-04 14:07:56,063 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 14:07:56,070 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Negocio\src\main\resources
+2019-07-04 14:07:56,076 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 14:07:56,081 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Negocio\src\test\resources
+2019-07-04 14:08:23,278 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 14:08:23,278 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Negocio\src\main\resources
+2019-07-04 14:08:23,279 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 14:08:23,285 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Negocio\src\test\resources
+2019-07-04 14:08:33,623 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 14:08:33,632 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Negocio\src\main\resources
+2019-07-04 14:08:33,642 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 14:08:33,648 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Negocio\src\test\resources
+2019-07-04 14:08:39,015 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 14:08:39,016 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Negocio\src\main\resources
+2019-07-04 14:08:39,018 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 14:08:39,025 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Negocio\src\test\resources
+2019-07-04 14:09:53,576 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 14:09:53,585 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Negocio\src\main\resources
+2019-07-04 14:09:53,594 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 14:09:53,602 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Negocio\src\test\resources
+2019-07-04 14:16:28,599 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 14:16:28,599 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Consola\src\main\resources
+2019-07-04 14:16:28,601 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 14:16:28,608 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Consola\src\test\resources
+2019-07-04 14:16:28,642 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 14:16:28,651 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Modelo\src\main\resources
+2019-07-04 14:16:28,653 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 14:16:28,659 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Modelo\src\test\resources
+2019-07-04 14:16:28,687 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 14:16:28,688 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Negocio\src\main\resources
+2019-07-04 14:16:28,689 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 14:16:28,697 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Negocio\src\test\resources
