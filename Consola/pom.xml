@@ -28,14 +28,8 @@
       <groupId>ejercicio.Pelicula</groupId>
       <artifactId>Negocio</artifactId>
       <version>0.0.1-SNAPSHOT</version>
-      <scope>compilance</scope>
+      <scope>compile</scope>
     </dependency>
     
-     <dependency>
-      <groupId>ejercicio.Pelicula</groupId>
-      <artifactId>Modelo</artifactId>
-      <version>0.0.1-SNAPSHOT</version>
-      <scope>compilance</scope>
-    </dependency>
   </dependencies>
 </project>

@@ -13,7 +13,7 @@
 <item elementID="=Consola/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 </workingSet>
 <workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1562308738218_4" label="Ejemplos Spring" name="Ejemplos Spring">
-<item elementID="=ejemplo02Spring" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ejemplo02Spring" type="4"/>
 </workingSet>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1562235573040_2" label="Window Working Set" name="Aggregate for window 1562235573040"/>
 </workingSetManager>
