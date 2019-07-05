@@ -3,42 +3,49 @@ package ejercicio.Pelicula.Negocio;
 import java.util.List;
 
 import ejercicio.Pelicula.Dao.IPeliculaDao;
+import ejercicio.Pelicula.Dao.PeliculasDaoMemoryImplementacion;
 import ejercicio.Pelicula.Modelo.ModeloPelicula;
 
 public class GestorPeliculas {
-	
-	private IPeliculaDao DAOPeliculas;
-	
-	public void altaPelicula(List<ModeloPelicula> alta){
-		for(int i=0;i<alta.size();i++){
-			DAOPeliculas.crearPelicula(alta.get(i));
+
+	private IPeliculaDao daoPeliculas = new PeliculasDaoMemoryImplementacion();
+
+	public void altaPelicula(List<ModeloPelicula> alta) {
+		for (int i = 0; i < alta.size(); i++) {
+			daoPeliculas.crearPelicula(alta.get(i));
 		}
-		
+
 	}
-	
-	public List<ModeloPelicula> listaPeliculas(){
-		
-		return DAOPeliculas.readPeliculas();
-			
+
+	public List<ModeloPelicula> listaPeliculas() {
+
+		return daoPeliculas.readPeliculas();
+
 	}
-	
-	
-	public void updatePeliculas(List<ModeloPelicula> update){
-		for(int i=0;i<update.size();i++){
-			DAOPeliculas.updatePelicula(update.get(i));
+
+	public void updatePeliculas(List<ModeloPelicula> update) {
+
+		for (int i = 0; i < daoPeliculas.readPeliculas().size(); i++) {
+
+			for (int j = 0; j < update.size(); j++) {
+
+				if (update.get(j).getTitulo().equals(daoPeliculas.readPeliculas().get(i).getTitulo())) {
+					
+					daoPeliculas.updatePelicula(update.get(j));
+
+				}
+
+			}
 		}
 	}
-	
-	
-	public void deletePelicula(List<String> titulos){
-		for(int i=0;i<titulos.size();i++){
+
+	public void deletePelicula(List<String> titulos) {
+		for (int i = 0; i < titulos.size(); i++) {
 			String titulo = titulos.get(i);
-			ModeloPelicula pelicula = DAOPeliculas.readById(titulo);
-			DAOPeliculas.deletePelicula(pelicula);
+			ModeloPelicula pelicula = daoPeliculas.readById(titulo);
+			daoPeliculas.deletePelicula(pelicula);
 		}
-		
-		
+
 	}
-	
 
 }

@@ -247,3 +247,889 @@
 2019-07-04 14:16:28,688 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Negocio\src\main\resources
 2019-07-04 14:16:28,689 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2019-07-04 14:16:28,697 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Negocio\src\test\resources
+2019-07-04 14:20:49,701 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 14:20:49,701 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Consola\src\main\resources
+2019-07-04 14:20:49,703 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-04 14:20:49,703 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Consola\src\test\resources
+2019-07-04 14:47:42,287 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-07-04 14:54:05,338 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-07-05 08:10:59,602 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-07-05 08:19:43,350 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-07-05 08:32:51,659 [Worker-17: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\ejemplo02Spring\pom.xml
+2019-07-05 08:33:01,893 [Worker-17: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sopra.spring:ejemplo02Spring:0.0.1-SNAPSHOT @ C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\ejemplo02Spring\pom.xml.
+2019-07-05 08:33:06,844 [Worker-17: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ejemplo02Spring/src/main/java
+2019-07-05 08:33:06,854 [Worker-17: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ejemplo02Spring/src/test/java
+2019-07-05 08:33:07,047 [Worker-17: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 15 sec
+2019-07-05 08:33:09,744 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 08:33:09,744 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Modelo\src\main\resources
+2019-07-05 08:33:09,748 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 08:33:09,749 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Modelo\src\test\resources
+2019-07-05 08:33:10,172 [Worker-17: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Modelo: ejercicio.Pelicula:Modelo:0.0.1-SNAPSHOT with classifier  to /Modelo/target/classes
+2019-07-05 08:33:10,180 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 08:33:10,181 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Dao\src\main\resources
+2019-07-05 08:33:10,183 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 08:33:10,183 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Dao\src\test\resources
+2019-07-05 08:33:10,707 [Worker-17: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Dao: ejercicio.Pelicula:Dao:0.0.1-SNAPSHOT with classifier  to /Dao/target/classes
+2019-07-05 08:33:10,721 [Worker-17: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Modelo: ejercicio.Pelicula:Modelo:0.0.1-SNAPSHOT with classifier  to /Modelo/target/classes
+2019-07-05 08:33:10,734 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 08:33:10,734 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Negocio\src\main\resources
+2019-07-05 08:33:10,737 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 08:33:10,758 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Negocio\src\test\resources
+2019-07-05 08:33:10,881 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 08:33:10,882 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\ejemplo02Spring\src\main\resources
+2019-07-05 08:33:10,884 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 08:33:10,892 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\ejemplo02Spring\src\test\resources
+2019-07-05 08:34:33,771 [Worker-16: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ejercicio.Pelicula:Negocio:0.0.1-SNAPSHOT @ C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Negocio\pom.xml.
+2019-07-05 08:34:33,786 [Worker-16: Updating Maven Dependencies] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for ejercicio.Pelicula:Dao:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2019-07-05 08:34:45,297 [Worker-23: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ejercicio.Pelicula:Modelo:0.0.1-SNAPSHOT @ C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Modelo\pom.xml.
+2019-07-05 08:34:45,570 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 08:34:45,570 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Modelo\src\main\resources
+2019-07-05 08:34:45,572 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 08:34:45,573 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Modelo\src\test\resources
+2019-07-05 08:34:45,584 [Worker-16: Download sources and javadoc] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for ejercicio.Pelicula:Dao:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2019-07-05 08:34:45,657 [Worker-16: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for ejercicio.Pelicula:Dao:0.0.1-SNAPSHOT
+org.eclipse.core.runtime.CoreException: Could not resolve artifact ejercicio.Pelicula:Dao:jar:sources:0.0.1-SNAPSHOT
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:801) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:769) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:746) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:328) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:302) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:267) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:231) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:159) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:159) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.10.400.v20190506-1457.jar:na]
+2019-07-05 08:34:45,675 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 08:34:45,687 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Negocio\src\main\resources
+2019-07-05 08:34:45,797 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 08:34:45,798 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Negocio\src\test\resources
+2019-07-05 08:34:45,982 [Worker-19: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ejercicio.Pelicula:Modelo:0.0.1-SNAPSHOT @ C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Modelo\pom.xml.
+2019-07-05 08:34:46,120 [Worker-19: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ejercicio.Pelicula:Dao:0.0.1-SNAPSHOT @ C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Dao\pom.xml.
+2019-07-05 08:34:46,146 [Worker-19: Updating Maven Dependencies] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Modelo: ejercicio.Pelicula:Modelo:0.0.1-SNAPSHOT with classifier  to /Modelo/target/classes
+2019-07-05 08:34:46,278 [Worker-19: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ejercicio.Pelicula:Negocio:0.0.1-SNAPSHOT @ C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Negocio\pom.xml.
+2019-07-05 08:34:46,294 [Worker-19: Updating Maven Dependencies] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Dao: ejercicio.Pelicula:Dao:0.0.1-SNAPSHOT with classifier  to /Dao/target/classes
+2019-07-05 08:34:46,295 [Worker-19: Updating Maven Dependencies] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Modelo: ejercicio.Pelicula:Modelo:0.0.1-SNAPSHOT with classifier  to /Modelo/target/classes
+2019-07-05 08:34:47,131 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 08:34:47,131 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Modelo\src\main\resources
+2019-07-05 08:34:47,133 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 08:34:47,133 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Modelo\src\test\resources
+2019-07-05 08:34:47,165 [Worker-24: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Modelo: ejercicio.Pelicula:Modelo:0.0.1-SNAPSHOT with classifier  to /Modelo/target/classes
+2019-07-05 08:34:47,173 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 08:34:47,185 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Dao\src\main\resources
+2019-07-05 08:34:47,190 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 08:34:47,197 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Dao\src\test\resources
+2019-07-05 08:34:47,340 [Worker-24: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Dao: ejercicio.Pelicula:Dao:0.0.1-SNAPSHOT with classifier  to /Dao/target/classes
+2019-07-05 08:34:47,340 [Worker-24: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Modelo: ejercicio.Pelicula:Modelo:0.0.1-SNAPSHOT with classifier  to /Modelo/target/classes
+2019-07-05 08:34:47,345 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 08:34:47,354 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Negocio\src\main\resources
+2019-07-05 08:34:47,356 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 08:34:47,356 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Negocio\src\test\resources
+2019-07-05 08:43:41,129 [Worker-22: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sopra.spring:ejemplo02Spring:0.0.1-SNAPSHOT @ C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\ejemplo02Spring\pom.xml.
+2019-07-05 08:43:41,705 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 08:43:41,705 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\ejemplo02Spring\src\main\resources
+2019-07-05 08:43:41,707 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 08:43:41,707 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\ejemplo02Spring\src\test\resources
+2019-07-05 08:46:17,048 [Worker-29: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-core/${spring.frame.work.version}/spring-core-${spring.frame.work.version}.pom
+2019-07-05 08:46:17,060 [Worker-29: reload maven project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:spring-core:jar:${spring.frame.work.version} is missing, no dependency information available
+2019-07-05 08:46:17,222 [Worker-29: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-core/${spring.frame.work.version}/spring-core-${spring.frame.work.version}.jar
+2019-07-05 08:46:17,313 [Worker-27: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sopra.spring:ejemplo02Spring:0.0.1-SNAPSHOT @ C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\ejemplo02Spring\pom.xml.
+2019-07-05 08:46:17,325 [Worker-27: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:spring-core:jar:${spring.frame.work.version} is missing, no dependency information available
+2019-07-05 08:46:17,656 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 08:46:17,664 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\ejemplo02Spring\src\main\resources
+2019-07-05 08:46:17,666 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 08:46:17,674 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\ejemplo02Spring\src\test\resources
+2019-07-05 08:46:18,423 [Worker-27: Download sources and javadoc] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:spring-core:jar:${spring.frame.work.version} is missing, no dependency information available
+2019-07-05 08:46:18,712 [Worker-27: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-core/${spring.frame.work.version}/spring-core-${spring.frame.work.version}-sources.jar
+2019-07-05 08:46:18,738 [Worker-27: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for org.springframework:spring-core:${spring.frame.work.version}
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springframework:spring-core:jar:sources:${spring.frame.work.version}
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:801) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:769) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:746) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:328) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:302) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:267) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:231) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:159) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:159) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.10.400.v20190506-1457.jar:na]
+2019-07-05 08:46:49,854 [Worker-16: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-07-05 08:46:50,555 [Worker-16: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sopra.spring:ejemplo02Spring:0.0.1-SNAPSHOT @ C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\ejemplo02Spring\pom.xml.
+2019-07-05 08:46:50,569 [Worker-16: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:spring-core:jar:${spring.frame.work.version} is missing, no dependency information available
+2019-07-05 08:46:50,802 [Worker-16: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ejemplo02Spring/src/main/java
+2019-07-05 08:46:50,811 [Worker-16: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ejemplo02Spring/src/test/java
+2019-07-05 08:46:51,247 [Worker-16: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2019-07-05 08:46:51,734 [Worker-22: Download sources and javadoc] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:spring-core:jar:${spring.frame.work.version} is missing, no dependency information available
+2019-07-05 08:46:51,868 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 08:46:51,886 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\ejemplo02Spring\src\main\resources
+2019-07-05 08:46:51,889 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 08:46:51,902 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\ejemplo02Spring\src\test\resources
+2019-07-05 08:46:52,233 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-core/${spring.frame.work.version}/spring-core-${spring.frame.work.version}-javadoc.jar
+2019-07-05 08:46:52,309 [Worker-22: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for org.springframework:spring-core:${spring.frame.work.version}
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springframework:spring-core:jar:javadoc:${spring.frame.work.version}
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:801) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:769) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:746) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:328) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:314) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:267) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:231) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:159) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:159) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.10.400.v20190506-1457.jar:na]
+2019-07-05 08:51:06,631 [Worker-30: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sopra.spring:ejemplo02Spring:0.0.1-SNAPSHOT @ C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\ejemplo02Spring\pom.xml.
+2019-07-05 08:51:06,972 [Worker-30: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-core/${springframe.work.version}/spring-core-${springframe.work.version}.pom
+2019-07-05 08:51:06,980 [Worker-30: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:spring-core:jar:${springframe.work.version} is missing, no dependency information available
+2019-07-05 08:51:07,138 [Worker-30: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context/${springframe.work.version}/spring-context-${springframe.work.version}.pom
+2019-07-05 08:51:07,153 [Worker-30: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:spring-context:jar:${springframe.work.version} is missing, no dependency information available
+2019-07-05 08:51:07,305 [Worker-30: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-core/${springframe.work.version}/spring-core-${springframe.work.version}.jar
+2019-07-05 08:51:07,439 [Worker-30: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context/${springframe.work.version}/spring-context-${springframe.work.version}.jar
+2019-07-05 08:51:07,711 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 08:51:07,712 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\ejemplo02Spring\src\main\resources
+2019-07-05 08:51:07,722 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 08:51:07,722 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\ejemplo02Spring\src\test\resources
+2019-07-05 08:51:08,581 [Worker-30: Download sources and javadoc] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:spring-core:jar:${springframe.work.version} is missing, no dependency information available
+2019-07-05 08:51:08,603 [Worker-30: Download sources and javadoc] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:spring-context:jar:${springframe.work.version} is missing, no dependency information available
+2019-07-05 08:51:08,953 [Worker-30: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-core/${springframe.work.version}/spring-core-${springframe.work.version}-sources.jar
+2019-07-05 08:51:08,988 [Worker-30: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for org.springframework:spring-core:${springframe.work.version}
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springframework:spring-core:jar:sources:${springframe.work.version}
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:801) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:769) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:746) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:328) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:302) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:267) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:231) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:159) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:159) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.10.400.v20190506-1457.jar:na]
+2019-07-05 08:51:09,331 [Worker-30: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context/${springframe.work.version}/spring-context-${springframe.work.version}-sources.jar
+2019-07-05 08:51:09,375 [Worker-30: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for org.springframework:spring-context:${springframe.work.version}
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springframework:spring-context:jar:sources:${springframe.work.version}
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:801) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:769) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:746) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:328) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:302) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:267) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:231) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:159) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:159) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.10.400.v20190506-1457.jar:na]
+2019-07-05 08:51:19,830 [Worker-32: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sopra.spring:ejemplo02Spring:0.0.1-SNAPSHOT @ C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\ejemplo02Spring\pom.xml.
+2019-07-05 08:51:19,995 [Worker-32: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-core/${springframework.version}/spring-core-${springframework.version}.pom
+2019-07-05 08:51:20,037 [Worker-32: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:spring-core:jar:${springframework.version} is missing, no dependency information available
+2019-07-05 08:51:20,099 [Worker-32: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context/${springframework.version}/spring-context-${springframework.version}.pom
+2019-07-05 08:51:20,113 [Worker-32: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:spring-context:jar:${springframework.version} is missing, no dependency information available
+2019-07-05 08:51:20,153 [Worker-32: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-core/${springframework.version}/spring-core-${springframework.version}.jar
+2019-07-05 08:51:20,189 [Worker-32: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context/${springframework.version}/spring-context-${springframework.version}.jar
+2019-07-05 08:51:20,427 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 08:51:20,427 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\ejemplo02Spring\src\main\resources
+2019-07-05 08:51:20,428 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 08:51:20,428 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\ejemplo02Spring\src\test\resources
+2019-07-05 08:51:21,376 [Worker-35: Download sources and javadoc] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:spring-core:jar:${springframework.version} is missing, no dependency information available
+2019-07-05 08:51:21,400 [Worker-35: Download sources and javadoc] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:spring-context:jar:${springframework.version} is missing, no dependency information available
+2019-07-05 08:51:21,578 [Worker-35: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-core/${springframework.version}/spring-core-${springframework.version}-sources.jar
+2019-07-05 08:51:21,619 [Worker-35: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for org.springframework:spring-core:${springframework.version}
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springframework:spring-core:jar:sources:${springframework.version}
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:801) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:769) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:746) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:328) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:302) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:267) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:231) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:159) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:159) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.10.400.v20190506-1457.jar:na]
+2019-07-05 08:51:21,858 [Worker-35: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context/${springframework.version}/spring-context-${springframework.version}-sources.jar
+2019-07-05 08:51:21,876 [Worker-35: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for org.springframework:spring-context:${springframework.version}
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springframework:spring-context:jar:sources:${springframework.version}
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:801) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:769) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:746) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:328) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:302) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:267) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:231) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:159) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:159) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.10.400.v20190506-1457.jar:na]
+2019-07-05 08:51:33,825 [Worker-30: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sopra.spring:ejemplo02Spring:0.0.1-SNAPSHOT @ C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\ejemplo02Spring\pom.xml.
+2019-07-05 08:51:34,044 [Worker-30: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-core/5.1.8.RELEASE/spring-core-5.1.8.RELEASE.pom
+2019-07-05 08:51:34,220 [Worker-30: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-core/5.1.8.RELEASE/spring-core-5.1.8.RELEASE.pom
+2019-07-05 08:51:34,290 [Worker-30: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-jcl/5.1.8.RELEASE/spring-jcl-5.1.8.RELEASE.pom
+2019-07-05 08:51:34,358 [Worker-30: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-jcl/5.1.8.RELEASE/spring-jcl-5.1.8.RELEASE.pom
+2019-07-05 08:51:34,423 [Worker-30: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-context/5.1.8.RELEASE/spring-context-5.1.8.RELEASE.pom
+2019-07-05 08:51:34,519 [Worker-30: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context/5.1.8.RELEASE/spring-context-5.1.8.RELEASE.pom
+2019-07-05 08:51:34,594 [Worker-30: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aop/5.1.8.RELEASE/spring-aop-5.1.8.RELEASE.pom
+2019-07-05 08:51:34,720 [Worker-30: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aop/5.1.8.RELEASE/spring-aop-5.1.8.RELEASE.pom
+2019-07-05 08:51:34,783 [Worker-30: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-beans/5.1.8.RELEASE/spring-beans-5.1.8.RELEASE.pom
+2019-07-05 08:51:34,852 [Worker-30: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-beans/5.1.8.RELEASE/spring-beans-5.1.8.RELEASE.pom
+2019-07-05 08:51:34,919 [Worker-30: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-expression/5.1.8.RELEASE/spring-expression-5.1.8.RELEASE.pom
+2019-07-05 08:51:34,991 [Worker-30: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-expression/5.1.8.RELEASE/spring-expression-5.1.8.RELEASE.pom
+2019-07-05 08:51:35,061 [Worker-30: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-core/5.1.8.RELEASE/spring-core-5.1.8.RELEASE.jar
+2019-07-05 08:51:35,442 [Worker-30: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-core/5.1.8.RELEASE/spring-core-5.1.8.RELEASE.jar
+2019-07-05 08:51:35,502 [Worker-30: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-jcl/5.1.8.RELEASE/spring-jcl-5.1.8.RELEASE.jar
+2019-07-05 08:51:35,708 [Worker-30: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-jcl/5.1.8.RELEASE/spring-jcl-5.1.8.RELEASE.jar
+2019-07-05 08:51:35,755 [Worker-30: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-context/5.1.8.RELEASE/spring-context-5.1.8.RELEASE.jar
+2019-07-05 08:51:35,928 [Worker-30: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context/5.1.8.RELEASE/spring-context-5.1.8.RELEASE.jar
+2019-07-05 08:51:35,974 [Worker-30: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aop/5.1.8.RELEASE/spring-aop-5.1.8.RELEASE.jar
+2019-07-05 08:51:36,090 [Worker-30: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aop/5.1.8.RELEASE/spring-aop-5.1.8.RELEASE.jar
+2019-07-05 08:51:36,144 [Worker-30: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-beans/5.1.8.RELEASE/spring-beans-5.1.8.RELEASE.jar
+2019-07-05 08:51:36,276 [Worker-30: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-beans/5.1.8.RELEASE/spring-beans-5.1.8.RELEASE.jar
+2019-07-05 08:51:36,322 [Worker-30: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-expression/5.1.8.RELEASE/spring-expression-5.1.8.RELEASE.jar
+2019-07-05 08:51:36,843 [Worker-30: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-expression/5.1.8.RELEASE/spring-expression-5.1.8.RELEASE.jar
+2019-07-05 08:51:38,552 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 08:51:38,552 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\ejemplo02Spring\src\main\resources
+2019-07-05 08:51:38,554 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 08:51:38,554 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\ejemplo02Spring\src\test\resources
+2019-07-05 08:51:39,313 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 08:51:39,322 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\ejemplo02Spring\src\main\resources
+2019-07-05 08:51:39,332 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 08:51:39,333 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\ejemplo02Spring\src\test\resources
+2019-07-05 08:51:39,686 [Worker-36: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-core/5.1.8.RELEASE/spring-core-5.1.8.RELEASE-sources.jar
+2019-07-05 08:51:40,058 [Worker-36: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-core/5.1.8.RELEASE/spring-core-5.1.8.RELEASE-sources.jar
+2019-07-05 08:51:40,387 [Worker-36: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-core:5.1.8.RELEASE
+2019-07-05 08:51:40,544 [Worker-36: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-jcl/5.1.8.RELEASE/spring-jcl-5.1.8.RELEASE-sources.jar
+2019-07-05 08:51:40,687 [Worker-36: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-jcl/5.1.8.RELEASE/spring-jcl-5.1.8.RELEASE-sources.jar
+2019-07-05 08:51:40,963 [Worker-36: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-jcl:5.1.8.RELEASE
+2019-07-05 08:51:41,137 [Worker-36: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-context/5.1.8.RELEASE/spring-context-5.1.8.RELEASE-sources.jar
+2019-07-05 08:51:41,392 [Worker-36: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context/5.1.8.RELEASE/spring-context-5.1.8.RELEASE-sources.jar
+2019-07-05 08:51:41,577 [Worker-36: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-context:5.1.8.RELEASE
+2019-07-05 08:51:41,797 [Worker-36: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aop/5.1.8.RELEASE/spring-aop-5.1.8.RELEASE-sources.jar
+2019-07-05 08:51:42,092 [Worker-36: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aop/5.1.8.RELEASE/spring-aop-5.1.8.RELEASE-sources.jar
+2019-07-05 08:51:42,307 [Worker-36: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-aop:5.1.8.RELEASE
+2019-07-05 08:51:42,543 [Worker-36: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-beans/5.1.8.RELEASE/spring-beans-5.1.8.RELEASE-sources.jar
+2019-07-05 08:51:42,896 [Worker-36: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-beans/5.1.8.RELEASE/spring-beans-5.1.8.RELEASE-sources.jar
+2019-07-05 08:51:43,190 [Worker-36: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-beans:5.1.8.RELEASE
+2019-07-05 08:51:43,370 [Worker-36: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-expression/5.1.8.RELEASE/spring-expression-5.1.8.RELEASE-sources.jar
+2019-07-05 08:51:43,558 [Worker-36: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-expression/5.1.8.RELEASE/spring-expression-5.1.8.RELEASE-sources.jar
+2019-07-05 08:51:43,793 [Worker-36: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-expression:5.1.8.RELEASE
+2019-07-05 08:51:44,152 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 08:51:44,161 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\ejemplo02Spring\src\main\resources
+2019-07-05 08:51:44,169 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 08:51:44,169 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\ejemplo02Spring\src\test\resources
+2019-07-05 09:00:02,697 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 09:00:02,698 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\ejemplo02Spring\src\main\resources
+2019-07-05 09:00:02,730 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 09:00:02,744 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\ejemplo02Spring\src\test\resources
+2019-07-05 09:03:05,832 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 09:03:05,836 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\ejemplo02Spring\src\main\resources
+2019-07-05 09:03:05,856 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 09:03:05,917 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\ejemplo02Spring\src\test\resources
+2019-07-05 09:11:21,815 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 09:11:21,816 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\ejemplo02Spring\src\main\resources
+2019-07-05 09:11:21,898 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 09:11:21,912 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\ejemplo02Spring\src\test\resources
+2019-07-05 09:16:04,776 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 09:16:04,794 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-05 09:16:04,818 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 09:16:04,879 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\ejemplo02Spring\src\test\resources
+2019-07-05 09:18:47,657 [Worker-47: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-07-05 09:18:48,460 [Worker-47: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sopra.spring:ejemplo02Spring:0.0.1-SNAPSHOT @ C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\ejemplo02Spring\pom.xml.
+2019-07-05 09:18:48,855 [Worker-47: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ejemplo02Spring/src/main/java
+2019-07-05 09:18:48,863 [Worker-47: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ejemplo02Spring/src/main/resources
+2019-07-05 09:18:48,903 [Worker-47: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ejemplo02Spring/src/test/java
+2019-07-05 09:18:49,129 [Worker-47: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2019-07-05 09:18:49,739 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 09:18:49,742 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-05 09:18:49,750 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 09:18:49,751 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\ejemplo02Spring\src\test\resources
+2019-07-05 09:23:24,211 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 09:23:24,215 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-07-05 09:23:24,245 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 09:23:24,245 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\ejemplo02Spring\src\test\resources
+2019-07-05 09:25:39,180 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 09:25:39,194 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-07-05 09:25:39,224 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 09:25:39,225 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\ejemplo02Spring\src\test\resources
+2019-07-05 09:39:16,838 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 09:39:16,846 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-07-05 09:39:16,848 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 09:39:16,849 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\ejemplo02Spring\src\test\resources
+2019-07-05 09:39:54,535 [Worker-58: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 09:39:54,567 [Worker-58: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-07-05 09:39:54,668 [Worker-58: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 09:39:54,669 [Worker-58: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\ejemplo02Spring\src\test\resources
+2019-07-05 09:43:09,759 [Worker-63: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 09:43:09,760 [Worker-63: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-07-05 09:43:09,767 [Worker-63: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 09:43:09,774 [Worker-63: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\ejemplo02Spring\src\test\resources
+2019-07-05 09:52:20,724 [Worker-75: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 09:52:20,725 [Worker-75: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-07-05 09:52:20,729 [Worker-75: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 09:52:20,729 [Worker-75: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\ejemplo02Spring\src\test\resources
+2019-07-05 09:52:49,037 [Worker-73: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 09:52:49,053 [Worker-73: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-07-05 09:52:49,069 [Worker-73: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 09:52:49,069 [Worker-73: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\ejemplo02Spring\src\test\resources
+2019-07-05 09:54:12,213 [Worker-73: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 09:54:12,214 [Worker-73: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-07-05 09:54:12,216 [Worker-73: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 09:54:12,217 [Worker-73: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\ejemplo02Spring\src\test\resources
+2019-07-05 09:55:28,965 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 09:55:28,979 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-07-05 09:55:29,000 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 09:55:29,001 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\ejemplo02Spring\src\test\resources
+2019-07-05 09:56:32,113 [Worker-69: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 09:56:32,113 [Worker-69: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-07-05 09:56:32,120 [Worker-69: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 09:56:32,120 [Worker-69: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\ejemplo02Spring\src\test\resources
+2019-07-05 10:22:23,339 [Worker-84: Building workspace] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-07-05 10:22:23,365 [Worker-84: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 10:22:23,378 [Worker-84: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-07-05 10:22:23,385 [Worker-84: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 10:22:23,402 [Worker-84: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\ejemplo02Spring\src\test\resources
+2019-07-05 10:27:35,478 [Worker-89: Launching Lanzador] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-07-05 10:27:35,509 [Worker-89: Launching Lanzador] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 10:27:35,510 [Worker-89: Launching Lanzador] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-07-05 10:27:35,521 [Worker-89: Launching Lanzador] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 10:27:35,531 [Worker-89: Launching Lanzador] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\ejemplo02Spring\src\test\resources
+2019-07-05 10:48:32,163 [Worker-91: Building workspace] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-07-05 10:48:32,172 [Worker-91: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 10:48:32,178 [Worker-91: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-07-05 10:48:32,189 [Worker-91: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 10:48:32,199 [Worker-91: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\ejemplo02Spring\src\test\resources
+2019-07-05 10:49:11,677 [Worker-99: Building workspace] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-07-05 10:49:11,691 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 10:49:11,697 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-07-05 10:49:11,712 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 10:49:11,713 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\ejemplo02Spring\src\test\resources
+2019-07-05 10:50:31,761 [Worker-98: Building workspace] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-07-05 10:50:31,778 [Worker-98: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 10:50:31,780 [Worker-98: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-07-05 10:50:31,783 [Worker-98: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 10:50:31,784 [Worker-98: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\ejemplo02Spring\src\test\resources
+2019-07-05 10:51:59,342 [Worker-98: Building workspace] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-07-05 10:51:59,366 [Worker-98: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 10:51:59,368 [Worker-98: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-07-05 10:51:59,380 [Worker-98: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 10:51:59,380 [Worker-98: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\ejemplo02Spring\src\test\resources
+2019-07-05 10:55:56,084 [Worker-102: Building workspace] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-07-05 10:55:56,102 [Worker-102: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 10:55:56,114 [Worker-102: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-07-05 10:55:56,137 [Worker-102: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 10:55:56,146 [Worker-102: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\ejemplo02Spring\src\test\resources
+2019-07-05 10:56:09,780 [Worker-102: Building workspace] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-07-05 10:56:09,861 [Worker-102: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 10:56:09,869 [Worker-102: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-07-05 10:56:09,889 [Worker-102: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 10:56:09,889 [Worker-102: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\ejemplo02Spring\src\test\resources
+2019-07-05 11:03:41,644 [Worker-91: Building workspace] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-07-05 11:03:41,659 [Worker-91: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 11:03:41,660 [Worker-91: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-07-05 11:03:41,667 [Worker-91: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 11:03:41,679 [Worker-91: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\ejemplo02Spring\src\test\resources
+2019-07-05 11:06:17,613 [Worker-98: Building workspace] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-07-05 11:06:17,633 [Worker-98: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 11:06:17,642 [Worker-98: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-07-05 11:06:17,653 [Worker-98: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 11:06:17,654 [Worker-98: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\ejemplo02Spring\src\test\resources
+2019-07-05 11:06:38,108 [Worker-91: Building workspace] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-07-05 11:06:38,142 [Worker-91: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 11:06:38,161 [Worker-91: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-07-05 11:06:38,172 [Worker-91: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 11:06:38,179 [Worker-91: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\ejemplo02Spring\src\test\resources
+2019-07-05 11:09:18,073 [Worker-106: Building workspace] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-07-05 11:09:18,107 [Worker-106: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 11:09:18,117 [Worker-106: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-07-05 11:09:18,129 [Worker-106: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 11:09:18,130 [Worker-106: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\ejemplo02Spring\src\test\resources
+2019-07-05 11:09:26,123 [Worker-101: Building workspace] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-07-05 11:09:26,135 [Worker-101: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 11:09:26,137 [Worker-101: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-07-05 11:09:26,140 [Worker-101: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 11:09:26,140 [Worker-101: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\ejemplo02Spring\src\test\resources
+2019-07-05 11:09:39,778 [Worker-91: Building workspace] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-07-05 11:09:39,822 [Worker-91: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 11:09:39,824 [Worker-91: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-07-05 11:09:39,845 [Worker-91: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 11:09:39,845 [Worker-91: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\ejemplo02Spring\src\test\resources
+2019-07-05 11:13:41,046 [Worker-98: Building workspace] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-07-05 11:13:41,058 [Worker-98: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 11:13:41,072 [Worker-98: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-07-05 11:13:41,082 [Worker-98: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 11:13:41,093 [Worker-98: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\ejemplo02Spring\src\test\resources
+2019-07-05 11:15:15,368 [Worker-98: Building workspace] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-07-05 11:15:15,394 [Worker-98: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 11:15:15,400 [Worker-98: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-07-05 11:15:15,414 [Worker-98: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 11:15:15,414 [Worker-98: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\ejemplo02Spring\src\test\resources
+2019-07-05 11:16:54,512 [Worker-91: Building workspace] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-07-05 11:16:54,526 [Worker-91: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 11:16:54,528 [Worker-91: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-07-05 11:16:54,530 [Worker-91: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 11:16:54,536 [Worker-91: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\ejemplo02Spring\src\test\resources
+2019-07-05 11:17:38,605 [Worker-101: Launching Lanzador03] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-07-05 11:17:38,617 [Worker-101: Launching Lanzador03] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 11:17:38,625 [Worker-101: Launching Lanzador03] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-07-05 11:17:38,634 [Worker-101: Launching Lanzador03] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 11:17:38,634 [Worker-101: Launching Lanzador03] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\ejemplo02Spring\src\test\resources
+2019-07-05 11:18:52,465 [Worker-98: Launching Lanzador03] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-07-05 11:18:52,475 [Worker-98: Launching Lanzador03] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 11:18:52,480 [Worker-98: Launching Lanzador03] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-07-05 11:18:52,490 [Worker-98: Launching Lanzador03] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 11:18:52,496 [Worker-98: Launching Lanzador03] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\ejemplo02Spring\src\test\resources
+2019-07-05 12:00:04,775 [Worker-111: Building workspace] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-07-05 12:00:05,191 [Worker-118: Updating Maven Dependencies] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-07-05 12:00:06,269 [Worker-117: Updating Maven Dependencies] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-07-05 12:00:07,286 [Worker-118: Updating Maven Dependencies] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-07-05 12:00:07,509 [Worker-111: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ejercicio.Pelicula:Consola:0.0.1-SNAPSHOT @ C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Consola\pom.xml.
+2019-07-05 12:00:07,887 [Worker-111: Building workspace] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-07-05 12:00:07,902 [Worker-111: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 12:00:07,907 [Worker-111: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Consola\src\main\resources
+2019-07-05 12:00:07,908 [Worker-111: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 12:00:07,913 [Worker-111: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Consola\src\test\resources
+2019-07-05 12:00:07,955 [Worker-111: Building workspace] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-07-05 12:00:08,092 [Worker-111: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ejercicio.Pelicula:Modelo:0.0.1-SNAPSHOT @ C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Modelo\pom.xml.
+2019-07-05 12:00:08,357 [Worker-118: Updating Maven Dependencies] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-07-05 12:00:08,393 [Worker-111: Building workspace] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-07-05 12:00:08,400 [Worker-111: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 12:00:08,400 [Worker-111: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Modelo\src\main\resources
+2019-07-05 12:00:08,401 [Worker-111: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 12:00:08,409 [Worker-111: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Modelo\src\test\resources
+2019-07-05 12:00:08,458 [Worker-111: Building workspace] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-07-05 12:00:08,579 [Worker-111: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ejercicio.Pelicula:Dao:0.0.1-SNAPSHOT @ C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Dao\pom.xml.
+2019-07-05 12:00:08,585 [Worker-111: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Modelo: ejercicio.Pelicula:Modelo:0.0.1-SNAPSHOT with classifier  to /Modelo/target/classes
+2019-07-05 12:00:08,919 [Worker-111: Building workspace] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-07-05 12:00:08,938 [Worker-111: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 12:00:08,939 [Worker-111: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Dao\src\main\resources
+2019-07-05 12:00:08,940 [Worker-111: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 12:00:08,940 [Worker-111: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Dao\src\test\resources
+2019-07-05 12:00:09,133 [Worker-119: Building workspace] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-07-05 12:00:09,231 [Worker-119: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ejercicio.Pelicula:Negocio:0.0.1-SNAPSHOT @ C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Negocio\pom.xml.
+2019-07-05 12:00:09,236 [Worker-119: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Dao: ejercicio.Pelicula:Dao:0.0.1-SNAPSHOT with classifier  to /Dao/target/classes
+2019-07-05 12:00:09,243 [Worker-119: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Modelo: ejercicio.Pelicula:Modelo:0.0.1-SNAPSHOT with classifier  to /Modelo/target/classes
+2019-07-05 12:00:09,376 [Worker-116: Updating Maven Dependencies] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-07-05 12:00:09,499 [Worker-119: Building workspace] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-07-05 12:00:09,510 [Worker-119: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 12:00:09,511 [Worker-119: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Negocio\src\main\resources
+2019-07-05 12:00:09,512 [Worker-119: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 12:00:09,512 [Worker-119: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Negocio\src\test\resources
+2019-07-05 12:00:10,390 [Worker-117: Updating Maven Dependencies] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-07-05 12:00:10,606 [Worker-117: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ejercicio.Pelicula:Consola:0.0.1-SNAPSHOT @ C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Consola\pom.xml.
+2019-07-05 12:00:10,678 [Worker-117: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ejercicio.Pelicula:Modelo:0.0.1-SNAPSHOT @ C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Modelo\pom.xml.
+2019-07-05 12:00:10,757 [Worker-117: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ejercicio.Pelicula:Dao:0.0.1-SNAPSHOT @ C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Dao\pom.xml.
+2019-07-05 12:00:10,760 [Worker-117: Updating Maven Dependencies] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Modelo: ejercicio.Pelicula:Modelo:0.0.1-SNAPSHOT with classifier  to /Modelo/target/classes
+2019-07-05 12:00:10,834 [Worker-117: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ejercicio.Pelicula:Negocio:0.0.1-SNAPSHOT @ C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Negocio\pom.xml.
+2019-07-05 12:00:10,836 [Worker-117: Updating Maven Dependencies] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Dao: ejercicio.Pelicula:Dao:0.0.1-SNAPSHOT with classifier  to /Dao/target/classes
+2019-07-05 12:00:10,836 [Worker-117: Updating Maven Dependencies] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Modelo: ejercicio.Pelicula:Modelo:0.0.1-SNAPSHOT with classifier  to /Modelo/target/classes
+2019-07-05 12:00:11,274 [Worker-117: Building workspace] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-07-05 12:00:11,300 [Worker-117: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 12:00:11,301 [Worker-117: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Consola\src\main\resources
+2019-07-05 12:00:11,303 [Worker-117: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 12:00:11,303 [Worker-117: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Consola\src\test\resources
+2019-07-05 12:00:11,330 [Worker-117: Building workspace] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-07-05 12:00:11,340 [Worker-117: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 12:00:11,341 [Worker-117: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Modelo\src\main\resources
+2019-07-05 12:00:11,342 [Worker-117: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 12:00:11,348 [Worker-117: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Modelo\src\test\resources
+2019-07-05 12:00:11,364 [Worker-117: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Modelo: ejercicio.Pelicula:Modelo:0.0.1-SNAPSHOT with classifier  to /Modelo/target/classes
+2019-07-05 12:00:11,445 [Worker-117: Building workspace] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-07-05 12:00:11,457 [Worker-117: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 12:00:11,457 [Worker-117: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Dao\src\main\resources
+2019-07-05 12:00:11,459 [Worker-117: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 12:00:11,459 [Worker-117: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Dao\src\test\resources
+2019-07-05 12:00:11,478 [Worker-117: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Dao: ejercicio.Pelicula:Dao:0.0.1-SNAPSHOT with classifier  to /Dao/target/classes
+2019-07-05 12:00:11,490 [Worker-117: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Modelo: ejercicio.Pelicula:Modelo:0.0.1-SNAPSHOT with classifier  to /Modelo/target/classes
+2019-07-05 12:00:11,496 [Worker-117: Building workspace] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-07-05 12:00:11,511 [Worker-117: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 12:00:11,511 [Worker-117: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Negocio\src\main\resources
+2019-07-05 12:00:11,513 [Worker-117: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 12:00:11,513 [Worker-117: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Negocio\src\test\resources
+2019-07-05 12:06:02,597 [Worker-125: Building workspace] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-07-05 12:06:02,611 [Worker-125: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 12:06:02,611 [Worker-125: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Consola\src\main\resources
+2019-07-05 12:06:02,613 [Worker-125: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 12:06:02,614 [Worker-125: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Consola\src\test\resources
+2019-07-05 12:06:38,473 [Worker-124: Building workspace] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-07-05 12:06:38,481 [Worker-124: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 12:06:38,482 [Worker-124: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Consola\src\main\resources
+2019-07-05 12:06:38,482 [Worker-124: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 12:06:38,483 [Worker-124: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Consola\src\test\resources
+2019-07-05 12:14:57,477 [Worker-131: Building workspace] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-07-05 12:14:57,691 [Worker-131: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ejercicio.Pelicula:Consola:0.0.1-SNAPSHOT @ C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Consola\pom.xml.
+2019-07-05 12:14:58,081 [Worker-131: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/ejercicio/Pelicula/Negocio/3.8.1/Negocio-3.8.1.pom
+2019-07-05 12:14:58,100 [Worker-131: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for ejercicio.Pelicula:Negocio:jar:3.8.1 is missing, no dependency information available
+2019-07-05 12:14:58,264 [Worker-131: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/ejercicio/Pelicula/Negocio/3.8.1/Negocio-3.8.1.jar
+2019-07-05 12:14:58,380 [Worker-131: Building workspace] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-07-05 12:14:58,400 [Worker-131: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 12:14:58,407 [Worker-131: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Consola\src\main\resources
+2019-07-05 12:14:58,414 [Worker-131: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 12:14:58,414 [Worker-131: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Consola\src\test\resources
+2019-07-05 12:14:59,416 [Worker-122: Download sources and javadoc] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for ejercicio.Pelicula:Negocio:jar:3.8.1 is missing, no dependency information available
+2019-07-05 12:14:59,690 [Worker-122: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/ejercicio/Pelicula/Negocio/3.8.1/Negocio-3.8.1-sources.jar
+2019-07-05 12:14:59,711 [Worker-122: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for ejercicio.Pelicula:Negocio:3.8.1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact ejercicio.Pelicula:Negocio:jar:sources:3.8.1
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:801) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:769) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:746) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:328) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:302) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:267) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:231) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:159) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:159) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.10.400.v20190506-1457.jar:na]
+2019-07-05 12:16:34,366 [Worker-125: Building workspace] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-07-05 12:16:34,483 [Worker-125: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ejercicio.Pelicula:Consola:0.0.1-SNAPSHOT @ C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Consola\pom.xml.
+2019-07-05 12:16:34,497 [Worker-125: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Negocio: ejercicio.Pelicula:Negocio:0.0.1-SNAPSHOT with classifier  to /Negocio/target/classes
+2019-07-05 12:16:34,504 [Worker-125: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Dao: ejercicio.Pelicula:Dao:0.0.1-SNAPSHOT with classifier  to /Dao/target/classes
+2019-07-05 12:16:34,504 [Worker-125: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Modelo: ejercicio.Pelicula:Modelo:0.0.1-SNAPSHOT with classifier  to /Modelo/target/classes
+2019-07-05 12:16:34,583 [Worker-125: Building workspace] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-07-05 12:16:34,593 [Worker-125: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 12:16:34,599 [Worker-125: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Consola\src\main\resources
+2019-07-05 12:16:34,600 [Worker-125: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 12:16:34,601 [Worker-125: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Consola\src\test\resources
+2019-07-05 12:16:36,068 [Worker-129: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Negocio: ejercicio.Pelicula:Negocio:0.0.1-SNAPSHOT with classifier  to /Negocio/target/classes
+2019-07-05 12:16:36,080 [Worker-129: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Dao: ejercicio.Pelicula:Dao:0.0.1-SNAPSHOT with classifier  to /Dao/target/classes
+2019-07-05 12:16:36,080 [Worker-129: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Modelo: ejercicio.Pelicula:Modelo:0.0.1-SNAPSHOT with classifier  to /Modelo/target/classes
+2019-07-05 12:16:36,095 [Worker-129: Building workspace] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-07-05 12:16:36,104 [Worker-129: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 12:16:36,112 [Worker-129: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Consola\src\main\resources
+2019-07-05 12:16:36,113 [Worker-129: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 12:16:36,113 [Worker-129: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Consola\src\test\resources
+2019-07-05 12:17:06,421 [Worker-130: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-07-05 12:17:06,528 [Worker-130: Updating Maven Project] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-07-05 12:17:10,209 [Worker-130: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ejercicio.Pelicula:Consola:0.0.1-SNAPSHOT @ C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Consola\pom.xml.
+2019-07-05 12:17:10,218 [Worker-130: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Negocio: ejercicio.Pelicula:Negocio:0.0.1-SNAPSHOT with classifier  to /Negocio/target/classes
+2019-07-05 12:17:10,224 [Worker-130: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Dao: ejercicio.Pelicula:Dao:0.0.1-SNAPSHOT with classifier  to /Dao/target/classes
+2019-07-05 12:17:10,230 [Worker-130: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Modelo: ejercicio.Pelicula:Modelo:0.0.1-SNAPSHOT with classifier  to /Modelo/target/classes
+2019-07-05 12:17:10,295 [Worker-130: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sopra.spring:ejemplo02Spring:0.0.1-SNAPSHOT @ C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\ejemplo02Spring\pom.xml.
+2019-07-05 12:17:10,432 [Worker-130: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ejercicio.Pelicula:Modelo:0.0.1-SNAPSHOT @ C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Modelo\pom.xml.
+2019-07-05 12:17:10,504 [Worker-130: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ejercicio.Pelicula:Dao:0.0.1-SNAPSHOT @ C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Dao\pom.xml.
+2019-07-05 12:17:10,510 [Worker-130: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Modelo: ejercicio.Pelicula:Modelo:0.0.1-SNAPSHOT with classifier  to /Modelo/target/classes
+2019-07-05 12:17:10,581 [Worker-130: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ejercicio.Pelicula:Negocio:0.0.1-SNAPSHOT @ C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Negocio\pom.xml.
+2019-07-05 12:17:10,583 [Worker-130: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Dao: ejercicio.Pelicula:Dao:0.0.1-SNAPSHOT with classifier  to /Dao/target/classes
+2019-07-05 12:17:10,584 [Worker-130: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Modelo: ejercicio.Pelicula:Modelo:0.0.1-SNAPSHOT with classifier  to /Modelo/target/classes
+2019-07-05 12:17:11,064 [Worker-130: Updating Maven Project] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-07-05 12:17:12,280 [Worker-130: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Consola/src/main/java
+2019-07-05 12:17:12,281 [Worker-130: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Consola/src/test/java
+2019-07-05 12:17:12,392 [Worker-130: Updating Maven Project] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-07-05 12:17:12,412 [Worker-130: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Dao/src/main/java
+2019-07-05 12:17:12,412 [Worker-130: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Dao/src/test/java
+2019-07-05 12:17:12,474 [Worker-130: Updating Maven Project] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-07-05 12:17:12,483 [Worker-130: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ejemplo02Spring/src/main/java
+2019-07-05 12:17:12,489 [Worker-130: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ejemplo02Spring/src/main/resources
+2019-07-05 12:17:12,490 [Worker-130: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ejemplo02Spring/src/test/java
+2019-07-05 12:17:12,545 [Worker-130: Updating Maven Project] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-07-05 12:17:12,554 [Worker-130: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Modelo/src/main/java
+2019-07-05 12:17:12,560 [Worker-130: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Modelo/src/test/java
+2019-07-05 12:17:12,606 [Worker-130: Updating Maven Project] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-07-05 12:17:12,616 [Worker-130: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Negocio/src/main/java
+2019-07-05 12:17:12,617 [Worker-130: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Negocio/src/test/java
+2019-07-05 12:17:12,879 [Worker-130: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 6 sec
+2019-07-05 12:17:13,031 [Worker-132: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Negocio: ejercicio.Pelicula:Negocio:0.0.1-SNAPSHOT with classifier  to /Negocio/target/classes
+2019-07-05 12:17:13,032 [Worker-132: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Dao: ejercicio.Pelicula:Dao:0.0.1-SNAPSHOT with classifier  to /Dao/target/classes
+2019-07-05 12:17:13,032 [Worker-132: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Modelo: ejercicio.Pelicula:Modelo:0.0.1-SNAPSHOT with classifier  to /Modelo/target/classes
+2019-07-05 12:17:13,045 [Worker-132: Building workspace] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-07-05 12:17:13,075 [Worker-132: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 12:17:13,076 [Worker-132: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Consola\src\main\resources
+2019-07-05 12:17:13,078 [Worker-132: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 12:17:13,079 [Worker-132: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Consola\src\test\resources
+2019-07-05 12:17:13,736 [Worker-122: Building workspace] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-07-05 12:17:13,753 [Worker-122: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 12:17:13,754 [Worker-122: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Modelo\src\main\resources
+2019-07-05 12:17:13,755 [Worker-122: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 12:17:13,756 [Worker-122: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Modelo\src\test\resources
+2019-07-05 12:17:13,882 [Worker-122: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Modelo: ejercicio.Pelicula:Modelo:0.0.1-SNAPSHOT with classifier  to /Modelo/target/classes
+2019-07-05 12:17:13,883 [Worker-122: Building workspace] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-07-05 12:17:13,893 [Worker-122: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 12:17:13,893 [Worker-122: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Dao\src\main\resources
+2019-07-05 12:17:13,894 [Worker-122: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 12:17:13,894 [Worker-122: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Dao\src\test\resources
+2019-07-05 12:17:14,000 [Worker-122: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Dao: ejercicio.Pelicula:Dao:0.0.1-SNAPSHOT with classifier  to /Dao/target/classes
+2019-07-05 12:17:14,000 [Worker-122: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Modelo: ejercicio.Pelicula:Modelo:0.0.1-SNAPSHOT with classifier  to /Modelo/target/classes
+2019-07-05 12:17:14,001 [Worker-122: Building workspace] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-07-05 12:17:14,010 [Worker-122: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 12:17:14,016 [Worker-122: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Negocio\src\main\resources
+2019-07-05 12:17:14,017 [Worker-122: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 12:17:14,017 [Worker-122: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Negocio\src\test\resources
+2019-07-05 12:17:15,662 [Worker-122: Building workspace] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-07-05 12:17:15,683 [Worker-122: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 12:17:15,690 [Worker-122: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Consola\src\main\resources
+2019-07-05 12:17:15,698 [Worker-122: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 12:17:15,698 [Worker-122: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Consola\src\test\resources
+2019-07-05 12:17:15,763 [Worker-122: Building workspace] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-07-05 12:17:15,775 [Worker-122: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 12:17:15,776 [Worker-122: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-07-05 12:17:15,809 [Worker-122: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 12:17:15,815 [Worker-122: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\ejemplo02Spring\src\test\resources
+2019-07-05 12:22:57,792 [Worker-132: Building workspace] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-07-05 12:22:57,893 [Worker-132: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ejercicio.Pelicula:Consola:0.0.1-SNAPSHOT @ C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Consola\pom.xml.
+2019-07-05 12:22:57,900 [Worker-132: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Negocio: ejercicio.Pelicula:Negocio:0.0.1-SNAPSHOT with classifier  to /Negocio/target/classes
+2019-07-05 12:22:57,900 [Worker-132: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Dao: ejercicio.Pelicula:Dao:0.0.1-SNAPSHOT with classifier  to /Dao/target/classes
+2019-07-05 12:22:57,900 [Worker-132: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Modelo: ejercicio.Pelicula:Modelo:0.0.1-SNAPSHOT with classifier  to /Modelo/target/classes
+2019-07-05 12:22:57,977 [Worker-132: Building workspace] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-07-05 12:22:57,985 [Worker-132: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 12:22:57,991 [Worker-132: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Consola\src\main\resources
+2019-07-05 12:22:57,992 [Worker-132: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 12:22:57,997 [Worker-132: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Consola\src\test\resources
+2019-07-05 12:22:59,196 [Worker-129: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Negocio: ejercicio.Pelicula:Negocio:0.0.1-SNAPSHOT with classifier  to /Negocio/target/classes
+2019-07-05 12:22:59,203 [Worker-129: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Dao: ejercicio.Pelicula:Dao:0.0.1-SNAPSHOT with classifier  to /Dao/target/classes
+2019-07-05 12:22:59,212 [Worker-129: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Modelo: ejercicio.Pelicula:Modelo:0.0.1-SNAPSHOT with classifier  to /Modelo/target/classes
+2019-07-05 12:22:59,221 [Worker-129: Building workspace] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-07-05 12:22:59,230 [Worker-129: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 12:22:59,238 [Worker-129: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Consola\src\main\resources
+2019-07-05 12:22:59,242 [Worker-129: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 12:22:59,242 [Worker-129: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Consola\src\test\resources
+2019-07-05 12:32:54,423 [Worker-134: Building workspace] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-07-05 12:32:54,538 [Worker-134: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ejercicio.Pelicula:Consola:0.0.1-SNAPSHOT @ C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Consola\pom.xml.
+2019-07-05 12:32:54,547 [Worker-134: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Negocio: ejercicio.Pelicula:Negocio:0.0.1-SNAPSHOT with classifier  to /Negocio/target/classes
+2019-07-05 12:32:54,547 [Worker-134: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Dao: ejercicio.Pelicula:Dao:0.0.1-SNAPSHOT with classifier  to /Dao/target/classes
+2019-07-05 12:32:54,547 [Worker-134: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Modelo: ejercicio.Pelicula:Modelo:0.0.1-SNAPSHOT with classifier  to /Modelo/target/classes
+2019-07-05 12:32:54,647 [Worker-134: Building workspace] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-07-05 12:32:54,657 [Worker-134: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 12:32:54,665 [Worker-134: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Consola\src\main\resources
+2019-07-05 12:32:54,667 [Worker-134: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 12:32:54,674 [Worker-134: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Consola\src\test\resources
+2019-07-05 12:33:29,226 [Worker-128: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-07-05 12:33:29,303 [Worker-128: Updating Maven Project] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-07-05 12:33:29,850 [Worker-128: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ejercicio.Pelicula:Consola:0.0.1-SNAPSHOT @ C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Consola\pom.xml.
+2019-07-05 12:33:29,864 [Worker-128: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Negocio: ejercicio.Pelicula:Negocio:0.0.1-SNAPSHOT with classifier  to /Negocio/target/classes
+2019-07-05 12:33:29,872 [Worker-128: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Dao: ejercicio.Pelicula:Dao:0.0.1-SNAPSHOT with classifier  to /Dao/target/classes
+2019-07-05 12:33:29,881 [Worker-128: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Modelo: ejercicio.Pelicula:Modelo:0.0.1-SNAPSHOT with classifier  to /Modelo/target/classes
+2019-07-05 12:33:29,965 [Worker-128: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sopra.spring:ejemplo02Spring:0.0.1-SNAPSHOT @ C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\ejemplo02Spring\pom.xml.
+2019-07-05 12:33:30,086 [Worker-128: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ejercicio.Pelicula:Modelo:0.0.1-SNAPSHOT @ C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Modelo\pom.xml.
+2019-07-05 12:33:30,174 [Worker-128: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ejercicio.Pelicula:Dao:0.0.1-SNAPSHOT @ C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Dao\pom.xml.
+2019-07-05 12:33:30,176 [Worker-128: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Modelo: ejercicio.Pelicula:Modelo:0.0.1-SNAPSHOT with classifier  to /Modelo/target/classes
+2019-07-05 12:33:30,268 [Worker-128: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ejercicio.Pelicula:Negocio:0.0.1-SNAPSHOT @ C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Negocio\pom.xml.
+2019-07-05 12:33:30,277 [Worker-128: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Dao: ejercicio.Pelicula:Dao:0.0.1-SNAPSHOT with classifier  to /Dao/target/classes
+2019-07-05 12:33:30,277 [Worker-128: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Modelo: ejercicio.Pelicula:Modelo:0.0.1-SNAPSHOT with classifier  to /Modelo/target/classes
+2019-07-05 12:33:30,637 [Worker-128: Updating Maven Project] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-07-05 12:33:30,770 [Worker-128: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Consola/src/main/java
+2019-07-05 12:33:30,771 [Worker-128: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Consola/src/test/java
+2019-07-05 12:33:31,189 [Worker-128: Updating Maven Project] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-07-05 12:33:31,200 [Worker-128: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Dao/src/main/java
+2019-07-05 12:33:31,201 [Worker-128: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Dao/src/test/java
+2019-07-05 12:33:31,269 [Worker-128: Updating Maven Project] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-07-05 12:33:31,282 [Worker-128: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ejemplo02Spring/src/main/java
+2019-07-05 12:33:31,289 [Worker-128: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ejemplo02Spring/src/main/resources
+2019-07-05 12:33:31,290 [Worker-128: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ejemplo02Spring/src/test/java
+2019-07-05 12:33:31,366 [Worker-128: Updating Maven Project] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-07-05 12:33:31,381 [Worker-128: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Modelo/src/main/java
+2019-07-05 12:33:31,382 [Worker-128: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Modelo/src/test/java
+2019-07-05 12:33:31,438 [Worker-128: Updating Maven Project] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-07-05 12:33:31,455 [Worker-128: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Negocio/src/main/java
+2019-07-05 12:33:31,456 [Worker-128: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Negocio/src/test/java
+2019-07-05 12:33:31,781 [Worker-128: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2019-07-05 12:33:31,958 [Worker-134: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Negocio: ejercicio.Pelicula:Negocio:0.0.1-SNAPSHOT with classifier  to /Negocio/target/classes
+2019-07-05 12:33:31,958 [Worker-134: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Dao: ejercicio.Pelicula:Dao:0.0.1-SNAPSHOT with classifier  to /Dao/target/classes
+2019-07-05 12:33:31,959 [Worker-134: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Modelo: ejercicio.Pelicula:Modelo:0.0.1-SNAPSHOT with classifier  to /Modelo/target/classes
+2019-07-05 12:33:31,960 [Worker-134: Building workspace] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-07-05 12:33:31,982 [Worker-134: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 12:33:31,990 [Worker-134: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Consola\src\main\resources
+2019-07-05 12:33:31,993 [Worker-134: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 12:33:31,993 [Worker-134: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Consola\src\test\resources
+2019-07-05 12:33:32,441 [Worker-134: Building workspace] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-07-05 12:33:32,449 [Worker-134: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 12:33:32,449 [Worker-134: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Modelo\src\main\resources
+2019-07-05 12:33:32,450 [Worker-134: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 12:33:32,451 [Worker-134: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Modelo\src\test\resources
+2019-07-05 12:33:32,553 [Worker-134: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Modelo: ejercicio.Pelicula:Modelo:0.0.1-SNAPSHOT with classifier  to /Modelo/target/classes
+2019-07-05 12:33:32,555 [Worker-134: Building workspace] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-07-05 12:33:32,565 [Worker-134: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 12:33:32,565 [Worker-134: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Dao\src\main\resources
+2019-07-05 12:33:32,566 [Worker-134: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 12:33:32,566 [Worker-134: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Dao\src\test\resources
+2019-07-05 12:33:32,683 [Worker-134: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Dao: ejercicio.Pelicula:Dao:0.0.1-SNAPSHOT with classifier  to /Dao/target/classes
+2019-07-05 12:33:32,683 [Worker-134: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Modelo: ejercicio.Pelicula:Modelo:0.0.1-SNAPSHOT with classifier  to /Modelo/target/classes
+2019-07-05 12:33:32,694 [Worker-134: Building workspace] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-07-05 12:33:32,707 [Worker-134: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 12:33:32,707 [Worker-134: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Negocio\src\main\resources
+2019-07-05 12:33:32,709 [Worker-134: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 12:33:32,709 [Worker-134: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Negocio\src\test\resources
+2019-07-05 12:33:33,809 [Worker-134: Building workspace] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-07-05 12:33:33,825 [Worker-134: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 12:33:33,826 [Worker-134: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Consola\src\main\resources
+2019-07-05 12:33:33,835 [Worker-134: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 12:33:33,835 [Worker-134: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Consola\src\test\resources
+2019-07-05 12:33:34,088 [Worker-134: Building workspace] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-07-05 12:33:34,102 [Worker-134: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 12:33:34,116 [Worker-134: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-07-05 12:33:34,150 [Worker-134: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 12:33:34,150 [Worker-134: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\ejemplo02Spring\src\test\resources
+2019-07-05 12:46:50,279 [Worker-141: Launching Consola] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-07-05 12:46:50,301 [Worker-141: Launching Consola] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 12:46:50,312 [Worker-141: Launching Consola] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Consola\src\main\resources
+2019-07-05 12:46:50,322 [Worker-141: Launching Consola] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 12:46:50,323 [Worker-141: Launching Consola] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Consola\src\test\resources
+2019-07-05 12:46:50,373 [Worker-141: Launching Consola] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Negocio: ejercicio.Pelicula:Negocio:0.0.1-SNAPSHOT with classifier null to /Negocio/target/classes
+2019-07-05 12:46:50,375 [Worker-141: Launching Consola] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Dao: ejercicio.Pelicula:Dao:0.0.1-SNAPSHOT with classifier null to /Dao/target/classes
+2019-07-05 12:46:50,376 [Worker-141: Launching Consola] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Modelo: ejercicio.Pelicula:Modelo:0.0.1-SNAPSHOT with classifier null to /Modelo/target/classes
+2019-07-05 13:11:31,095 [Worker-156: Building workspace] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-07-05 13:11:31,104 [Worker-156: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 13:11:31,105 [Worker-156: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Negocio\src\main\resources
+2019-07-05 13:11:31,115 [Worker-156: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 13:11:31,115 [Worker-156: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Negocio\src\test\resources
+2019-07-05 13:11:55,650 [Worker-142: Building workspace] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-07-05 13:11:55,670 [Worker-142: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 13:11:55,671 [Worker-142: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Negocio\src\main\resources
+2019-07-05 13:11:55,672 [Worker-142: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 13:11:55,683 [Worker-142: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Negocio\src\test\resources
+2019-07-05 13:12:23,676 [Worker-142: Launching Consola] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-07-05 13:12:23,689 [Worker-142: Launching Consola] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 13:12:23,695 [Worker-142: Launching Consola] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Consola\src\main\resources
+2019-07-05 13:12:23,702 [Worker-142: Launching Consola] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 13:12:23,702 [Worker-142: Launching Consola] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Consola\src\test\resources
+2019-07-05 13:12:23,720 [Worker-142: Launching Consola] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Negocio: ejercicio.Pelicula:Negocio:0.0.1-SNAPSHOT with classifier null to /Negocio/target/classes
+2019-07-05 13:12:23,721 [Worker-142: Launching Consola] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Dao: ejercicio.Pelicula:Dao:0.0.1-SNAPSHOT with classifier null to /Dao/target/classes
+2019-07-05 13:12:23,731 [Worker-142: Launching Consola] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Modelo: ejercicio.Pelicula:Modelo:0.0.1-SNAPSHOT with classifier null to /Modelo/target/classes
+2019-07-05 13:12:54,126 [Worker-142: Building workspace] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-07-05 13:12:54,138 [Worker-142: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 13:12:54,138 [Worker-142: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Dao\src\main\resources
+2019-07-05 13:12:54,140 [Worker-142: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 13:12:54,140 [Worker-142: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Dao\src\test\resources
+2019-07-05 13:12:56,937 [Worker-142: Launching Consola] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Negocio: ejercicio.Pelicula:Negocio:0.0.1-SNAPSHOT with classifier null to /Negocio/target/classes
+2019-07-05 13:12:56,937 [Worker-142: Launching Consola] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Dao: ejercicio.Pelicula:Dao:0.0.1-SNAPSHOT with classifier null to /Dao/target/classes
+2019-07-05 13:12:56,943 [Worker-142: Launching Consola] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Modelo: ejercicio.Pelicula:Modelo:0.0.1-SNAPSHOT with classifier null to /Modelo/target/classes
+2019-07-05 13:13:24,163 [Worker-159: Building workspace] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-07-05 13:13:24,185 [Worker-159: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 13:13:24,191 [Worker-159: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Modelo\src\main\resources
+2019-07-05 13:13:24,198 [Worker-159: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 13:13:24,198 [Worker-159: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Modelo\src\test\resources
+2019-07-05 13:13:34,728 [Worker-156: Launching Consola] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Negocio: ejercicio.Pelicula:Negocio:0.0.1-SNAPSHOT with classifier null to /Negocio/target/classes
+2019-07-05 13:13:34,729 [Worker-156: Launching Consola] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Dao: ejercicio.Pelicula:Dao:0.0.1-SNAPSHOT with classifier null to /Dao/target/classes
+2019-07-05 13:13:34,737 [Worker-156: Launching Consola] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Modelo: ejercicio.Pelicula:Modelo:0.0.1-SNAPSHOT with classifier null to /Modelo/target/classes
+2019-07-05 13:32:01,864 [Worker-174: Building workspace] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-07-05 13:32:01,879 [Worker-174: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 13:32:01,886 [Worker-174: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Negocio\src\main\resources
+2019-07-05 13:32:01,894 [Worker-174: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 13:32:01,894 [Worker-174: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Negocio\src\test\resources
+2019-07-05 13:33:39,943 [Worker-173: Launching Consola] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-07-05 13:33:39,955 [Worker-173: Launching Consola] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 13:33:39,961 [Worker-173: Launching Consola] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Negocio\src\main\resources
+2019-07-05 13:33:39,968 [Worker-173: Launching Consola] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 13:33:39,973 [Worker-173: Launching Consola] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Negocio\src\test\resources
+2019-07-05 13:33:39,998 [Worker-173: Launching Consola] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Negocio: ejercicio.Pelicula:Negocio:0.0.1-SNAPSHOT with classifier null to /Negocio/target/classes
+2019-07-05 13:33:40,006 [Worker-173: Launching Consola] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Dao: ejercicio.Pelicula:Dao:0.0.1-SNAPSHOT with classifier null to /Dao/target/classes
+2019-07-05 13:33:40,007 [Worker-173: Launching Consola] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Modelo: ejercicio.Pelicula:Modelo:0.0.1-SNAPSHOT with classifier null to /Modelo/target/classes
+2019-07-05 13:36:24,999 [Worker-178: Launching Consola] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-07-05 13:36:25,007 [Worker-178: Launching Consola] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 13:36:25,013 [Worker-178: Launching Consola] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Modelo\src\main\resources
+2019-07-05 13:36:25,015 [Worker-178: Launching Consola] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 13:36:25,020 [Worker-178: Launching Consola] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Modelo\src\test\resources
+2019-07-05 13:36:25,090 [Worker-178: Launching Consola] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Negocio: ejercicio.Pelicula:Negocio:0.0.1-SNAPSHOT with classifier null to /Negocio/target/classes
+2019-07-05 13:36:25,102 [Worker-178: Launching Consola] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Dao: ejercicio.Pelicula:Dao:0.0.1-SNAPSHOT with classifier null to /Dao/target/classes
+2019-07-05 13:36:25,102 [Worker-178: Launching Consola] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Modelo: ejercicio.Pelicula:Modelo:0.0.1-SNAPSHOT with classifier null to /Modelo/target/classes
+2019-07-05 13:42:22,214 [Worker-182: Launching Consola] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-07-05 13:42:22,224 [Worker-182: Launching Consola] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 13:42:22,229 [Worker-182: Launching Consola] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Dao\src\main\resources
+2019-07-05 13:42:22,232 [Worker-182: Launching Consola] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 13:42:22,237 [Worker-182: Launching Consola] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Dao\src\test\resources
+2019-07-05 13:42:24,981 [Worker-182: Launching Consola] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Negocio: ejercicio.Pelicula:Negocio:0.0.1-SNAPSHOT with classifier null to /Negocio/target/classes
+2019-07-05 13:42:24,986 [Worker-182: Launching Consola] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Dao: ejercicio.Pelicula:Dao:0.0.1-SNAPSHOT with classifier null to /Dao/target/classes
+2019-07-05 13:42:24,992 [Worker-182: Launching Consola] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Modelo: ejercicio.Pelicula:Modelo:0.0.1-SNAPSHOT with classifier null to /Modelo/target/classes
+2019-07-05 13:43:08,174 [Worker-170: Launching Consola] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-07-05 13:43:08,185 [Worker-170: Launching Consola] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 13:43:08,191 [Worker-170: Launching Consola] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Dao\src\main\resources
+2019-07-05 13:43:08,198 [Worker-170: Launching Consola] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 13:43:08,204 [Worker-170: Launching Consola] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Dao\src\test\resources
+2019-07-05 13:43:09,622 [Worker-170: Launching Consola] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Negocio: ejercicio.Pelicula:Negocio:0.0.1-SNAPSHOT with classifier null to /Negocio/target/classes
+2019-07-05 13:43:09,628 [Worker-170: Launching Consola] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Dao: ejercicio.Pelicula:Dao:0.0.1-SNAPSHOT with classifier null to /Dao/target/classes
+2019-07-05 13:43:09,635 [Worker-170: Launching Consola] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Modelo: ejercicio.Pelicula:Modelo:0.0.1-SNAPSHOT with classifier null to /Modelo/target/classes
+2019-07-05 13:43:37,067 [Worker-170: Building workspace] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-07-05 13:43:37,083 [Worker-170: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 13:43:37,088 [Worker-170: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Dao\src\main\resources
+2019-07-05 13:43:37,095 [Worker-170: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 13:43:37,101 [Worker-170: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Dao\src\test\resources
+2019-07-05 13:43:54,380 [Worker-170: Launching Consola] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Negocio: ejercicio.Pelicula:Negocio:0.0.1-SNAPSHOT with classifier null to /Negocio/target/classes
+2019-07-05 13:43:54,386 [Worker-170: Launching Consola] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Dao: ejercicio.Pelicula:Dao:0.0.1-SNAPSHOT with classifier null to /Dao/target/classes
+2019-07-05 13:43:54,391 [Worker-170: Launching Consola] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Modelo: ejercicio.Pelicula:Modelo:0.0.1-SNAPSHOT with classifier null to /Modelo/target/classes
+2019-07-05 13:48:10,637 [Worker-181: Building workspace] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-07-05 13:48:10,645 [Worker-181: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 13:48:10,650 [Worker-181: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Consola\src\main\resources
+2019-07-05 13:48:10,656 [Worker-181: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 13:48:10,661 [Worker-181: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Consola\src\test\resources
+2019-07-05 13:48:10,679 [Worker-181: Building workspace] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-07-05 13:48:10,692 [Worker-181: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 13:48:10,692 [Worker-181: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Dao\src\main\resources
+2019-07-05 13:48:10,693 [Worker-181: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 13:48:10,693 [Worker-181: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Dao\src\test\resources
+2019-07-05 13:48:12,092 [Worker-170: Launching Consola] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Negocio: ejercicio.Pelicula:Negocio:0.0.1-SNAPSHOT with classifier null to /Negocio/target/classes
+2019-07-05 13:48:12,093 [Worker-170: Launching Consola] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Dao: ejercicio.Pelicula:Dao:0.0.1-SNAPSHOT with classifier null to /Dao/target/classes
+2019-07-05 13:48:12,093 [Worker-170: Launching Consola] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Modelo: ejercicio.Pelicula:Modelo:0.0.1-SNAPSHOT with classifier null to /Modelo/target/classes
+2019-07-05 13:54:33,924 [Worker-189: Building workspace] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-07-05 13:54:33,936 [Worker-189: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 13:54:33,936 [Worker-189: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Consola\src\main\resources
+2019-07-05 13:54:33,938 [Worker-189: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 13:54:33,938 [Worker-189: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Consola\src\test\resources
+2019-07-05 13:54:35,729 [Worker-181: Launching Consola] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Negocio: ejercicio.Pelicula:Negocio:0.0.1-SNAPSHOT with classifier null to /Negocio/target/classes
+2019-07-05 13:54:35,729 [Worker-181: Launching Consola] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Dao: ejercicio.Pelicula:Dao:0.0.1-SNAPSHOT with classifier null to /Dao/target/classes
+2019-07-05 13:54:35,729 [Worker-181: Launching Consola] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Modelo: ejercicio.Pelicula:Modelo:0.0.1-SNAPSHOT with classifier null to /Modelo/target/classes
+2019-07-05 13:55:54,654 [Worker-185: Launching Consola] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-07-05 13:55:54,662 [Worker-185: Launching Consola] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 13:55:54,662 [Worker-185: Launching Consola] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Consola\src\main\resources
+2019-07-05 13:55:54,663 [Worker-185: Launching Consola] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 13:55:54,663 [Worker-185: Launching Consola] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Consola\src\test\resources
+2019-07-05 13:55:54,689 [Worker-185: Launching Consola] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Negocio: ejercicio.Pelicula:Negocio:0.0.1-SNAPSHOT with classifier null to /Negocio/target/classes
+2019-07-05 13:55:54,689 [Worker-185: Launching Consola] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Dao: ejercicio.Pelicula:Dao:0.0.1-SNAPSHOT with classifier null to /Dao/target/classes
+2019-07-05 13:55:54,689 [Worker-185: Launching Consola] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Modelo: ejercicio.Pelicula:Modelo:0.0.1-SNAPSHOT with classifier null to /Modelo/target/classes
+2019-07-05 13:57:14,793 [Worker-180: Launching Consola] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-07-05 13:57:14,807 [Worker-180: Launching Consola] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 13:57:14,812 [Worker-180: Launching Consola] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Consola\src\main\resources
+2019-07-05 13:57:14,819 [Worker-180: Launching Consola] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 13:57:14,819 [Worker-180: Launching Consola] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Consola\src\test\resources
+2019-07-05 13:57:14,844 [Worker-180: Launching Consola] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Negocio: ejercicio.Pelicula:Negocio:0.0.1-SNAPSHOT with classifier null to /Negocio/target/classes
+2019-07-05 13:57:14,844 [Worker-180: Launching Consola] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Dao: ejercicio.Pelicula:Dao:0.0.1-SNAPSHOT with classifier null to /Dao/target/classes
+2019-07-05 13:57:14,844 [Worker-180: Launching Consola] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Modelo: ejercicio.Pelicula:Modelo:0.0.1-SNAPSHOT with classifier null to /Modelo/target/classes
+2019-07-05 13:57:42,788 [Worker-180: Building workspace] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-07-05 13:57:42,800 [Worker-180: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 13:57:42,801 [Worker-180: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.DESKTOP-3HCU5LN\eclipse-workspace\MavenProject\Consola\src\main\resources
+2019-07-05 13:57:42,802 [Worker-180: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.

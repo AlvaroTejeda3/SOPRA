@@ -1,12 +1,13 @@
 package ejercicio.Pelicula.Dao;
 
+import java.util.ArrayList;
 import java.util.List;
 
 import ejercicio.Pelicula.Modelo.ModeloPelicula;
 
 public class PeliculasDaoMemoryImplementacion implements IPeliculaDao {
 
-	private List<ModeloPelicula> peliculas;
+	private List<ModeloPelicula> peliculas = new ArrayList<ModeloPelicula>();
 	
 	
 	
