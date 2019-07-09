@@ -1,20 +1,21 @@
 package ejercicio.Pelicula.Modelo;
 
-public class ModeloPelicula {
+
+public class ModeloPeliculaConAnotaciones {
 	
 
 	private String titulo;
 	private String director;
 	private String sinopsis;
 	
-	public ModeloPelicula(String titulo, String director, String sinopsis) {
+	public ModeloPeliculaConAnotaciones(String titulo, String director, String sinopsis) {
 		super();
 		this.titulo = titulo;
 		this.director = director;
 		this.sinopsis = sinopsis;
 	}
 	
-	public ModeloPelicula() {}
+	public ModeloPeliculaConAnotaciones() {}
 
 	@Override
 	public int hashCode() {
@@ -33,7 +34,7 @@ public class ModeloPelicula {
 			return false;
 		if (getClass() != obj.getClass())
 			return false;
-		ModeloPelicula other = (ModeloPelicula) obj;
+		ModeloPeliculaConAnotaciones other = (ModeloPeliculaConAnotaciones) obj;
 		if (titulo == null) {
 			if (other.titulo != null)
 				return false;

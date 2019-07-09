@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+	<bean id="Pelicula"
+		class="ejercicio.Pelicula.Modelo.ModeloPelicula" scope ="prototype">
+	
+		<property name="titulo" value="" />
+		<property name="director" value="" />
+		<property name="sinopsis" value="" />
+	</bean>
+	
+	<bean id="Gestion"
+		class="ejercicio.Pelicula.Negocio.GestorPeliculas">
+		<property name="daoPeliculas" ref="arraylistDao"/>
+	</bean>
+	<bean id="arraylistDao" class= "ejercicio.Pelicula.Dao.PeliculasDaoMemoryImplementacion">
+		<property name="peliculas">
+			<bean class="java.util.ArrayList"/>
+		</property>
+	</bean>
+	<bean id="linkedListDao" class= "ejercicio.Pelicula.Dao.PeliculasDaoMemoryImplementacion">
+		<property name="peliculas">
+			<bean class="java.util.LinkedList"/>
+		</property>
+	</bean>
+</beans>
+
+

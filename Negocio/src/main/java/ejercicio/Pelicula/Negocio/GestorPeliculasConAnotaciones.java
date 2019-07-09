@@ -6,7 +6,8 @@ import ejercicio.Pelicula.Dao.IPeliculaDao;
 import ejercicio.Pelicula.Dao.PeliculasDaoMemoryImplementacion;
 import ejercicio.Pelicula.Modelo.ModeloPelicula;
 
-public class GestorPeliculas {
+
+public class GestorPeliculasConAnotaciones {
 
 	private IPeliculaDao daoPeliculas;
 	

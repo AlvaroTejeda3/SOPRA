@@ -1,1 +1,11 @@
 /.metadata/
+.gitignore
+.classpath
+.classes
+*.class
+bin/
+target/
+.project
+ejemplo*
+Servers
+.springBeans
