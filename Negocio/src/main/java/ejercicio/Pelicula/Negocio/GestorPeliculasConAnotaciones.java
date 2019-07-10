@@ -2,16 +2,19 @@ package ejercicio.Pelicula.Negocio;
 
 import java.util.List;
 
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.context.annotation.Scope;
+import org.springframework.stereotype.Component;
+
 import ejercicio.Pelicula.Dao.IPeliculaDao;
-import ejercicio.Pelicula.Dao.PeliculasDaoMemoryImplementacion;
 import ejercicio.Pelicula.Modelo.ModeloPelicula;
 
-
+@Component
+@Scope("singleton")
 public class GestorPeliculasConAnotaciones {
 
+	@Autowired
 	private IPeliculaDao daoPeliculas;
-	
-	
 
 	public IPeliculaDao getDaoPeliculas() {
 		return daoPeliculas;
@@ -41,7 +44,7 @@ public class GestorPeliculasConAnotaciones {
 			for (int j = 0; j < update.size(); j++) {
 
 				if (update.get(j).getTitulo().equals(daoPeliculas.readPeliculas().get(i).getTitulo())) {
-					
+
 					daoPeliculas.updatePelicula(update.get(j));
 
 				}

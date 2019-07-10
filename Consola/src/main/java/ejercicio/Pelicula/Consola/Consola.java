@@ -8,20 +8,20 @@ import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 import ejercicio.Pelicula.Modelo.ModeloPelicula;
-import ejercicio.Pelicula.Negocio.GestorPeliculas;
+import ejercicio.Pelicula.Negocio.GestorPeliculasConAnotaciones;
 
 public class Consola {
 	public static void main(String[] args) {
 
 		ApplicationContext context = new ClassPathXmlApplicationContext("beans.xml");
 
-		ModeloPelicula pelicula1 = context.getBean("Pelicula", ModeloPelicula.class);
+		ModeloPelicula pelicula1 = new ModeloPelicula();
 		pelicula1.setTitulo("AmericanPie1");
 		pelicula1.setDirector("Giusseppe1");
 		ModeloPelicula pelicula2 = context.getBean("Pelicula", ModeloPelicula.class);
 		pelicula2.setTitulo("AmericanPie2");
 		pelicula2.setDirector("Giusseppe2");
-		ModeloPelicula pelicula3 = context.getBean("Pelicula", ModeloPelicula.class);
+		ModeloPelicula pelicula3 = context.getBean(ModeloPelicula.class);
 		pelicula3.setTitulo("AmericanPie3");
 		pelicula3.setDirector("Giusseppe3");
 		ModeloPelicula pelicula4 = context.getBean("Pelicula", ModeloPelicula.class);
@@ -31,7 +31,7 @@ public class Consola {
 		pelicula5.setTitulo("AmericanPie5");
 		pelicula5.setDirector("Giusseppe5");
 
-		GestorPeliculas gestor = context.getBean("Gestion", GestorPeliculas.class);
+		GestorPeliculasConAnotaciones gestor = context.getBean(GestorPeliculasConAnotaciones.class);
 
 		List<ModeloPelicula> miListaDePeliculas = new ArrayList<>();
 		miListaDePeliculas.add(pelicula1);

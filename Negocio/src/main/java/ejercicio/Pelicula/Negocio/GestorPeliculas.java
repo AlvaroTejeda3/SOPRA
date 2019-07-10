@@ -2,15 +2,17 @@ package ejercicio.Pelicula.Negocio;
 
 import java.util.List;
 
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Component;
+
 import ejercicio.Pelicula.Dao.IPeliculaDao;
-import ejercicio.Pelicula.Dao.PeliculasDaoMemoryImplementacion;
 import ejercicio.Pelicula.Modelo.ModeloPelicula;
 
+@Component
 public class GestorPeliculas {
 
+	@Autowired
 	private IPeliculaDao daoPeliculas;
-	
-	
 
 	public IPeliculaDao getDaoPeliculas() {
 		return daoPeliculas;
@@ -40,7 +42,7 @@ public class GestorPeliculas {
 			for (int j = 0; j < update.size(); j++) {
 
 				if (update.get(j).getTitulo().equals(daoPeliculas.readPeliculas().get(i).getTitulo())) {
-					
+
 					daoPeliculas.updatePelicula(update.get(j));
 
 				}
