@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: springRestJPA
+server:
+  port: 8811

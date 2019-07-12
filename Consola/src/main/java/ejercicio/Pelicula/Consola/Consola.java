@@ -1,4 +1,4 @@
-package ejercicio.Pelicula.Consola;
+gestpackage ejercicio.Pelicula.Consola;
 
 import java.util.ArrayList;
 import java.util.Arrays;
