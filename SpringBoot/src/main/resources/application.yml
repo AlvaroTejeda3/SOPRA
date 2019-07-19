@@ -1,0 +1,5 @@
+server:
+  port: 8814
+
+spring:  application:    name: peliculas-spring-boot
+mensaje: Mensaje del application.yml
